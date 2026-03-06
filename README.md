@@ -29,7 +29,7 @@ _Settings_
 ~~~yaml
 youtubemusic://settings
 ~~~
-_Speed Dial/Listen Again_
+_Speed Dial/Listen again_
 ~~~yaml
 youtubemusic://listen_again
 ~~~
@@ -73,31 +73,31 @@ _Subscriptions_
 ~~~yaml
 youtubemusic://library/subscriptions
 ~~~
-_Play Library_
+_Play library_
 ~~~yaml
 youtubemusic://watch?list=MLCT
 ~~~
-_Shuffle Play Library_
+_Shuffle play library_
 ~~~yaml
 youtubemusic://watch?list=MLCT&shuffle=1
 ~~~
-_Start Mix of Library_
+_Start mix of library_
 ~~~yaml
 youtubemusic://watch?list=RDAMPLMLCT
 ~~~
-_Liked Music_
+_Liked music_
 ~~~yaml
 youtubemusic://playlist?list=LM
 ~~~
-_Play Liked Music_
+_Play liked music_
 ~~~yaml
 youtubemusic://watch?list=LM
 ~~~
-_Shuffle Play Liked Music_
+_Shuffle play liked music_
 ~~~yaml
 youtubemusic://watch?list=LM&shuffle=1
 ~~~
-_Start Mix of Liked Music_
+_Start mix of liked music_
 ~~~yaml
 youtubemusic://watch?list=RDAMPLLM
 ~~~
