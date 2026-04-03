@@ -1,123 +1,123 @@
 # YouTube Music app URL schemes
 
 \
-Home
+_Home_
 ~~~
 youtubemusic://
 ~~~
-Samples
+_Samples_
 ~~~
 youtubemusic://samples
 ~~~
-Explore
+_Explore_
 ~~~
 youtubemusic://explore
 ~~~
-Library
+_Library_
 ~~~
 youtubemusic://library
 ~~~
-History
+_History_
 ~~~
 youtubemusic://history
 ~~~
-Search for ‘example‘
+_Search for ‘example‘_
 ~~~
 youtubemusic://search?q=example
 ~~~
-Settings
+_Settings_
 ~~~
 youtubemusic://settings
 ~~~
-Speed Dial/Listen again
+_Speed Dial/Listen again_
 ~~~
 youtubemusic://listen_again
 ~~~
-New Releases › Albums
+_New Releases › Albums_
 ~~~
 youtubemusic://new_releases/albums
 ~~~
-New Releases › Videos
+_New Releases › Videos_
 ~~~
 youtubemusic://new_releases/videos
 ~~~
-Moods and Genres
+_Moods and Genres_
 ~~~
 youtubemusic://moods_and_genres
 ~~~
-Downloads
+_Downloads_
 ~~~
 youtubemusic://browse/FEmusic_offline
 ~~~
-Podcasts
+_Podcasts_
 ~~~
 youtubemusic://library/podcasts
 ~~~
-Songs
+_Songs_
 ~~~
 youtubemusic://library/songs
 ~~~
-Albums
+_Albums_
 ~~~
 youtubemusic://library/albums
 ~~~
-Artists
+_Artists_
 ~~~
 youtubemusic://library/artists
 ~~~
-Profiles
+_Profiles_
 ~~~
 youtubemusic://library/profiles
 ~~~
-Subscriptions
+_Subscriptions_
 ~~~
 youtubemusic://library/subscriptions
 ~~~
-Play library
+_Play library_
 ~~~
 youtubemusic://watch?list=MLCT
 ~~~
-Shuffle play library
+_Shuffle play library_
 ~~~
 youtubemusic://watch?list=MLCT&shuffle=1
 ~~~
-Start mix of library<br><sub>Unconfirmed if `RDAMPL` (start mix) has any effect here</sub> 
+_Start mix of library<br><sub>Unconfirmed if `RDAMPL` (start mix) has any effect here</sub>_
 ~~~
 youtubemusic://watch?list=RDAMPLMLCT
 ~~~
-Liked music
+_Liked music_
 ~~~
 youtubemusic://playlist?list=LM
 ~~~
-Play liked music
+_Play liked music_
 ~~~
 youtubemusic://watch?list=LM
 ~~~
-Shuffle play liked music
+_Shuffle play liked music_
 ~~~
 youtubemusic://watch?list=LM&shuffle=1
 ~~~
-Start mix of liked music
+_Start mix of liked music_
 ~~~
 youtubemusic://watch?list=RDAMPLLM
 ~~~
-Playlists
+_Playlists_
 ~~~
 youtubemusic://library/playlists
 ~~~
-Open playlist [id of playlist]
+_Open playlist [id of playlist]_
 ~~~
 youtubemusic://playlist?list=replace_with_playlist_id
 ~~~
-Play playlist [id of playlist]
+_Play playlist [id of playlist]_
 ~~~
 youtubemusic://watch?list=replace_with_playlist_id
 ~~~
-Shuffle play playlist [id of playlist]
+_Shuffle play playlist [id of playlist]_
 ~~~
 youtubemusic://watch?list=replace_with_playlist_id&shuffle=1
 ~~~
-Start mix of playlist [id of playlist]
+_Start mix of playlist [id of playlist]_
 ~~~
 youtubemusic://watch?list=RDAMPLreplace_with_playlist_id
 ~~~
